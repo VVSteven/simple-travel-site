@@ -1,0 +1,33 @@
+body {
+  background-color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  margin: 0;
+}
+#logo{
+    display: inline-block;
+height:200px;
+}
+nav {
+  background-color: rgb(94, 93, 93);
+  border: 5px solid red;
+}
+nav a {
+  color: yellow;
+  text-decoration: none;
+}
+th {
+  border: 5px solid rgb(0, 255, 115);
+}
+td {
+  border: 5px solid red;
+}
+main img {
+  border: 5px solid rgb(255, 255, 255);
+  width: 400px;
+  height: 350px;
+}
+h1 {
+  display: inline-block;
+  font-size: 100px;
+}
